@@ -1,8 +1,10 @@
 # Automation-of-webpage
 #Test Case 01 : PageAutomationTest 
+
 Firstly, I tried to automate the recommendation dropdown. As an user , when i first login into any online shopping portal , my mind would navigate to the filtering options which will be gloomy to my eyes as "Discoumt or " Sale" . Initially, I thought of automating only one, but have automated all the5 icons displayed in the drop down where i have navigated using indexes. 
 
 # Test Case 02 : Price Tracker 
+
 Second thought which hitted me was that this isnt the time for high dozy shopping so lets minimise the budget and look what can I get best from the available options. So, I have automated the slider of the price range with random offset value (with the help of coordinates) . I have automated successfully by moving the x and y coordinate front and back according to value i took. And later I was trying to automate that coordinate value which yeah didnt worked well as ther was no coordinates in the HTML Page or in DOM view. (Spend extra hours as it interested me that there should be an way, some more time i would have automated the coordinates). This enthusiasts me to dig into deep about using different selectors and xpath method. 
 
 #Test case 03 : Search Icon 
